@@ -10,6 +10,7 @@ Leetcode and Gfg Submissions
 | [0151-reverse-words-in-a-string](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/2032-largest-odd-number-in-string) |
 | [0014-longest-common-prefix](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0205-isomorphic-strings) |
 ## Stack
 |  |
 | ------- |
@@ -30,4 +31,8 @@ Leetcode and Gfg Submissions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
