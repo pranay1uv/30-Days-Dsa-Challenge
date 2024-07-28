@@ -12,6 +12,7 @@ Leetcode and Gfg Submissions
 | [0014-longest-common-prefix](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0205-isomorphic-strings) |
 | [0812-rotate-string](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0812-rotate-string) |
+| [0242-valid-anagram](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
@@ -36,8 +37,13 @@ Leetcode and Gfg Submissions
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0242-valid-anagram) |
 ## String Matching
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0812-rotate-string) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
