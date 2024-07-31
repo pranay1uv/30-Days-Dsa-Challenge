@@ -13,7 +13,7 @@ class Solution {
         for(int i = 0; i<s.length()-1; i++){
             if(map.get(s.charAt(i))>=map.get(s.charAt(i+1))){
                 sum = sum + map.get(s.charAt(i));
-            }else if(map.get(s.charAt(i))<map.get(s.charAt(i+1))){
+            }else {
                 sum = sum - map.get(s.charAt(i));
             }     
         }return sum+finalvalue;
