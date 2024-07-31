@@ -8,15 +8,14 @@ class Solution {
         map.put('C',100);
         map.put('D',500);
         map.put('M',1000);
-        s=s.replace("IV","IIII");
-        s=s.replace("IX","VIIII");
-        s=s.replace("XL","XXXX");
-        s=s.replace("XC","LXXXX");
-        s=s.replace("CD","CCCC");
-        s=s.replace("CM","DCCCC");
         int sum = 0;
-        for(int i = 0; i<s.length(); i++){
-            sum = sum + map.get(s.charAt(i));
-        }return sum;
+        int finalvalue = map.get(s.charAt(s.length()-1));
+        for(int i = 0; i<s.length()-1; i++){
+            if(map.get(s.charAt(i))>=map.get(s.charAt(i+1))){
+                sum = sum + map.get(s.charAt(i));
+            }else if(map.get(s.charAt(i))<map.get(s.charAt(i+1))){
+                sum = sum - map.get(s.charAt(i));
+            }     
+        }return sum+finalvalue;
     }
 }
