@@ -16,6 +16,7 @@ Leetcode and Gfg Submissions
 | [0451-sort-characters-by-frequency](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0451-sort-characters-by-frequency) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [0013-roman-to-integer](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0013-roman-to-integer) |
+| [0008-string-to-integer-atoi](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0008-string-to-integer-atoi) |
 ## Stack
 |  |
 | ------- |
