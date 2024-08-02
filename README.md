@@ -17,6 +17,7 @@ Leetcode and Gfg Submissions
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [0013-roman-to-integer](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0013-roman-to-integer) |
 | [0008-string-to-integer-atoi](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0008-string-to-integer-atoi) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -46,6 +47,7 @@ Leetcode and Gfg Submissions
 | [0242-valid-anagram](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0451-sort-characters-by-frequency) |
 | [0013-roman-to-integer](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0013-roman-to-integer) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## String Matching
 |  |
 | ------- |
@@ -67,4 +69,5 @@ Leetcode and Gfg Submissions
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0451-sort-characters-by-frequency) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/1890-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
