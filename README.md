@@ -18,6 +18,7 @@ Leetcode and Gfg Submissions
 | [0013-roman-to-integer](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0013-roman-to-integer) |
 | [0008-string-to-integer-atoi](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0008-string-to-integer-atoi) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [0344-reverse-string](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0344-reverse-string) |
 ## Stack
 |  |
 | ------- |
@@ -27,6 +28,7 @@ Leetcode and Gfg Submissions
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0151-reverse-words-in-a-string) |
+| [0344-reverse-string](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0344-reverse-string) |
 ## Math
 |  |
 | ------- |
