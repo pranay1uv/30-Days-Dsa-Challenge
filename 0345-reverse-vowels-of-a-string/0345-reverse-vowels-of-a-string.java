@@ -32,6 +32,6 @@ class Solution {
                 j--;
             }  
         }
-        return new String(charArray);
+        return String.valueOf(charArray);
     }
 }
