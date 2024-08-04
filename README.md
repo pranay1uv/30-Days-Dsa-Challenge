@@ -74,4 +74,12 @@ Leetcode and Gfg Submissions
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/1890-sum-of-beauty-of-all-substrings) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
