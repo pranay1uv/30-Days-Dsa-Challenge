@@ -31,6 +31,7 @@ Leetcode and Gfg Submissions
 | [0151-reverse-words-in-a-string](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0345-reverse-vowels-of-a-string) |
+| [0908-middle-of-the-linked-list](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0908-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -78,6 +79,7 @@ Leetcode and Gfg Submissions
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0206-reverse-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
