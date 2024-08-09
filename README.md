@@ -33,6 +33,7 @@ Leetcode and Gfg Submissions
 | [0345-reverse-vowels-of-a-string](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0908-middle-of-the-linked-list) |
 | [0141-linked-list-cycle](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0142-linked-list-cycle-ii) |
 ## Math
 |  |
 | ------- |
@@ -55,6 +56,7 @@ Leetcode and Gfg Submissions
 | [0013-roman-to-integer](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0013-roman-to-integer) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [0141-linked-list-cycle](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0142-linked-list-cycle-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -83,6 +85,7 @@ Leetcode and Gfg Submissions
 | [0206-reverse-linked-list](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0908-middle-of-the-linked-list) |
 | [0141-linked-list-cycle](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0142-linked-list-cycle-ii) |
 ## Recursion
 |  |
 | ------- |
