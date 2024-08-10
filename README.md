@@ -36,6 +36,7 @@ Leetcode and Gfg Submissions
 | [0141-linked-list-cycle](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0234-palindrome-linked-list) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Math
 |  |
 | ------- |
@@ -90,6 +91,7 @@ Leetcode and Gfg Submissions
 | [0142-linked-list-cycle-ii](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0328-odd-even-linked-list) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Recursion
 |  |
 | ------- |
