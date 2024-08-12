@@ -37,6 +37,7 @@ Leetcode and Gfg Submissions
 | [0142-linked-list-cycle-ii](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0234-palindrome-linked-list) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0148-sort-list](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -69,6 +70,7 @@ Leetcode and Gfg Submissions
 | ------- |
 | [0242-valid-anagram](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0451-sort-characters-by-frequency) |
+| [0148-sort-list](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -92,9 +94,18 @@ Leetcode and Gfg Submissions
 | [0234-palindrome-linked-list](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0328-odd-even-linked-list) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0148-sort-list](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0234-palindrome-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
