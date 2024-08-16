@@ -20,6 +20,7 @@ Leetcode and Gfg Submissions
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [0344-reverse-string](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0345-reverse-vowels-of-a-string) |
+| [0125-valid-palindrome](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
@@ -38,6 +39,7 @@ Leetcode and Gfg Submissions
 | [0234-palindrome-linked-list](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0234-palindrome-linked-list) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0148-sort-list) |
+| [0125-valid-palindrome](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0125-valid-palindrome) |
 ## Math
 |  |
 | ------- |
