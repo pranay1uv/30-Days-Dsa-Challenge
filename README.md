@@ -110,4 +110,8 @@ Leetcode and Gfg Submissions
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0148-sort-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
