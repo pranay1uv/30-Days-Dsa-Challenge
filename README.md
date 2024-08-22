@@ -45,6 +45,7 @@ Leetcode and Gfg Submissions
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/2032-largest-odd-number-in-string) |
 | [0013-roman-to-integer](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0231-power-of-two) |
 ## Greedy
 |  |
 | ------- |
@@ -102,6 +103,7 @@ Leetcode and Gfg Submissions
 | ------- |
 | [0206-reverse-linked-list](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0234-palindrome-linked-list) |
+| [0231-power-of-two](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -114,4 +116,5 @@ Leetcode and Gfg Submissions
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0476-number-complement) |
+| [0231-power-of-two](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
