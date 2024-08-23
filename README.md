@@ -46,6 +46,7 @@ Leetcode and Gfg Submissions
 | [2032-largest-odd-number-in-string](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/2032-largest-odd-number-in-string) |
 | [0013-roman-to-integer](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0231-power-of-two) |
+| [0007-reverse-integer](https://github.com/pranay1uv/30-Days-Dsa-Challenge/tree/master/0007-reverse-integer) |
 ## Greedy
 |  |
 | ------- |
